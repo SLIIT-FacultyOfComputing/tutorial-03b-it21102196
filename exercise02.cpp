@@ -30,4 +30,12 @@ int main() {
     return 0;
 }
 
+  int volume(int height, int width, int length)
+{
+	
+int TotalVolume = height * width * length;
+return TotalVolume;
+}
+
+
 // Implement the Volume() function here
